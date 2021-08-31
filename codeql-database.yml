@@ -1,0 +1,5 @@
+---
+sourceLocationPrefix: "D:\\codeql-run\\rundeck-plugin"
+unicodeNewlines: false
+columnKind: "utf16"
+primaryLanguage: "java"
